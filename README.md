@@ -3,13 +3,13 @@
 ## 💫 About Me:
 I am a dual-degree student pursuing a B.Tech in Computer Science & Engineering at MIT ADT University and a B.S. in Data Science & Applications at IIT Madras. My work focuses on the intersection of Software Development and Artificial Intelligence, where I build intelligent, scalable systems that solve complex real-world problems.  
 
-🏆 AI Grand Challenge 2026 Winner: Led the team that secured the 1 Lakh Grand Prize for FasalAstra, an autonomous AI-driven system for precision agriculture.  
+- 🏆 AI Grand Challenge 2026 Winner: Led the team that secured the 1 Lakh Grand Prize for FasalAstra, an autonomous AI-driven system for precision agriculture.  
 
-💻 Software & AI Engineering: Experienced in developing full-stack applications with Spring Boot, Flask, and Vue.js, while integrating Neural Networks and Generative AI.  
+- 💻 Software & AI Engineering: Experienced in developing full-stack applications with Spring Boot, Flask, and Vue.js, while integrating Neural Networks and Generative AI.  
 
-🛡️ Systems & Infrastructure: Proficient in Docker, Kubernetes, and Linux/Unix automation for deploying microservices.  
+- 🛡️ Systems & Infrastructure: Proficient in Docker, Kubernetes, and Linux/Unix automation for deploying microservices.  
 
-💼 Leadership: Serving as the Chair of the IEEE MIT ADT Student Branch, where I lead a community of 100+ members and conduct technical bootcamps.  
+- 💼 Leadership: Serving as the Chair of the IEEE MIT ADT Student Branch, where I lead a community of 100+ members and conduct technical bootcamps.  
  
 ## 🚀 Featured Work
 - **Low-Cost Digital Stethoscope with AI Integration:** Designing and building a digital stethoscope that integrates hardware sensors with software pipelines for real-time audio telemetry and data ingestion. Developing AI-driven diagnostic features to process physical sensor data efficiently.
