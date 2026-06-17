@@ -28,13 +28,7 @@
 <code>➜ Academics: Top course grades in Python and Java Programming at IIT Madras</code><br>
 <br />
 
-**Skills & Tools**
-<br />
 
-<code>Software: Python, Java, Spring Boot, Flask, FastAPI, Vue.js</code><br>
-<code>AI & Data: PyTorch, TensorFlow, scikit-learn, OpenCV, Pandas, NumPy</code><br>
-<code>Infrastructure: Docker, Kubernetes, Linux, PostgreSQL, Redis, Git</code><br>
-<br />
 
 Thank you for visiting my profile.
 <br />
