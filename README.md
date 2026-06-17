@@ -25,7 +25,7 @@
 
 <code>➜ AI Grand Challenge: Winner (₹1 Lakh Prize) for autonomous AI precision agriculture system</code><br>
 <code>➜ Google Big Code: Ranked in the top 15,000 globally</code><br>
-<code>➜ Academics: [Top course grades in Python and Java Programming at IIT Madras](https://linkedin.com/in/roshan-warade-102b17287)</code><br>
+<code>➜ Academics: [Top course grades in Python and Java Programming at IIT Madras]([https://linkedin.com/in/roshan-warade-102b17287](https://ds.study.iitm.ac.in/student/23F2004552#))</code><br>
 <br />
 
 
