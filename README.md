@@ -11,6 +11,14 @@
 <code>➜ LinkedIn: [roshan-warade-102b17287](https://linkedin.com/in/roshan-warade-102b17287)</code><br>
 <br />
 
+**Ongoing Research**
+<br />
+
+<code>➜ PCN: Distributed computing framework transforming idle workstations into high-performance compute clusters</code><br>
+<code>➜ AI-driven adaptive examination and automated proctoring portal</code><br>
+<code>➜ Automated silicon design and logic verification engine</code><br>
+
+<br />
 **Projects**
 <br />
 
