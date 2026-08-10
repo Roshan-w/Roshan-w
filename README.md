@@ -19,6 +19,7 @@
 <code>➜ Automated silicon design and logic verification engine</code><br>
 
 <br />
+
 **Projects**
 <br />
 
