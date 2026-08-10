@@ -15,7 +15,7 @@
 <br />
 
 <code>➜ PCN: Distributed computing framework transforming idle workstations into high-performance compute clusters</code><br>
-<code>➜ AI-driven adaptive examination and automated proctoring portal</code><br>
+<code>➜ AI-driven examination and automated proctoring portal</code><br>
 <code>➜ Automated silicon design and logic verification engine</code><br>
 
 <br />
