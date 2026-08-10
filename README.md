@@ -1,7 +1,6 @@
 # Roshan Warade
 *Specializing in full-stack development, AI integration, and systems architecture.*
 
-<code>Now building: AI Digital Stethoscope & Hospital Management System V2.0</code><br>
 <code>Location: Pune, Maharashtra</code><br>
 
 **Connect With Me**
